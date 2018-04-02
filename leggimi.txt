@@ -1,0 +1,2 @@
+File di testo, 
+aggiunta nel repository e commit
